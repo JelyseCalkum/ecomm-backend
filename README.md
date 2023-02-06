@@ -12,7 +12,12 @@ Or you can check out the project files in my GitHub repository here: //INSERT WA
 INSTALLATION/USAGE
 
 Clone the GitHub repo: https://github.com/JelyseCalkum/ecomm-backend
-Once in the properly cloned folder, run npm install to install dependencies (MySQL2 and Sequelize).
+Once in the properly cloned folder, add a .env file to the root of the app with the following:
+DB_NAME='ecommerce_db'
+DB_USER='root'
+DB_PW='YourPasswordHere'
+Then run npm install to install dependencies (MySQL2 and Sequelize)
+Create Schema and Seed data
 Once the database has been populated, start the server on local host, then use Insomnia, or a similar application to make requests!
 
 
