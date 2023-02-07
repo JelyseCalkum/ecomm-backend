@@ -4,7 +4,8 @@ SUMMARY
 
 This project takes a working Express.js API and was configured to use Sequalize to interact with a MySQL database in order to build the back end for an e-commerce site. Using insomnia, a user can interact with the backend to view the products, categories, and tags aswell as use CRUD methods to alter the databse.
 
-You can view the walkthrough video here: https://drive.google.com/file/d/1PahhFOFCIg2EqXMi9XFge8pWmFC0dfe1/view
+You can view the walkthrough video here:https://drive.google.com/file/d/1PahhFOFCIg2EqXMi9XFge8pWmFC0dfe1/view
+
 Or you can check out the project files in my GitHub repository here: https://github.com/JelyseCalkum/ecomm-backend
  
 
@@ -12,9 +13,14 @@ INSTALLATION/USAGE
 
 Clone the GitHub repo: https://github.com/JelyseCalkum/ecomm-backend
 Once in the properly cloned folder, add a .env file to the root of the app with the following:
+
+
 DB_NAME='ecommerce_db'
+
 DB_USER='root'
+
 DB_PW='YourPasswordHere'
+
 Then run npm install to install dependencies (MySQL2 and Sequelize)
 Create Schema and Seed data
 Once the database has been populated, start the server on local host, then use Insomnia, or a similar application to make requests!
