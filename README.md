@@ -2,12 +2,11 @@
 
 SUMMARY
 
-This project takes a working Express.js API and was configured to use Sequalize to interact with a MySQL database in order to build the back end for an e-commerce site.
-//This is a backend application for an ecommerce site that uses Sequelize to interact with a MySQL database. Using insomnia, a user can interact with the backend to view the products, categories, and tags aswell as use CRUD methods to alter the databse.//
+This project takes a working Express.js API and was configured to use Sequalize to interact with a MySQL database in order to build the back end for an e-commerce site. Using insomnia, a user can interact with the backend to view the products, categories, and tags aswell as use CRUD methods to alter the databse.
 
-You can view the walkthrough video here: https://github.com/JelyseCalkum/ecomm-backend
-Or you can check out the project files in my GitHub repository here: //INSERT WALKTHROUGH VIDEO HERE//
-
+You can view the walkthrough video here: https://drive.google.com/file/d/1PahhFOFCIg2EqXMi9XFge8pWmFC0dfe1/view
+Or you can check out the project files in my GitHub repository here: https://github.com/JelyseCalkum/ecomm-backend
+ 
 
 INSTALLATION/USAGE
 
